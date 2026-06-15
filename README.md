@@ -25,7 +25,3 @@
 
 > A polished **iOS + watchOS accountability app** — streaks, rewards, and an in-app coin economy.<br>
 > It's my playground for turning *"I'm learning Swift"* into *"I shipped this."* ☀️
-
----
-
-<p align="center"><i>Building one commit at a time. 🛠️☀️</i></p>
